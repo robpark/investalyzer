@@ -27,8 +27,8 @@ export default {
           url: '/login'
         },
         {
-          label: 'Dashboard',
-          url: '/dashboard'
+          label: 'Investments',
+          url: '/investments'
         }
       ]
     };

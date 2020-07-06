@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Dashboard</h1>
+    <h1>Investments</h1>
     <v-data-table :headers="headers" :items="positions" :items-per-page="10" class="elevation-1">
     </v-data-table>
   </div>
