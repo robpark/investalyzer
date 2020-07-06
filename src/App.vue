@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <Header2 :links="links" />
+    <Header :links="links" />
     <v-main>
       <router-view></router-view>
     </v-main>
@@ -10,11 +10,11 @@
 
 <script>
 import Footer from './components/Footer';
-import Header2 from './components/Header';
+import Header from './components/Header';
 
 export default {
   name: 'App',
-  components: { Header2, Footer },
+  components: { Header, Footer },
   data() {
     return {
       links: [
