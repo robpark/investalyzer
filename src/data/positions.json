@@ -1,0 +1,20 @@
+[
+  {
+    "symbol": "SPAXX",
+    "security-type": "Cash",
+    "quantity": 1000,
+    "price": 1.00
+  },
+  {
+    "symbol": "AMZN",
+    "security-type": "Stock",
+    "quantity": 10,
+    "price": 2890.30
+  },
+  {
+    "symbol": "SBUX",
+    "security-type": "Stock",
+    "quantity": 50,
+    "price": 73.78
+  }
+]
